@@ -1,1 +1,41 @@
 
+# Dependencies
+node_modules/
+vendor/
+
+# Temporary files and logs
+*.tmp
+*.temp
+*.log
+logs/
+npm-debug.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Development tool folders
+.vscode/
+.idea/
+.history/
+
+# Build and cache folders
+dist/
+build/
+coverage/
+.cache/
+.next/
+.nuxt/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*~
+
