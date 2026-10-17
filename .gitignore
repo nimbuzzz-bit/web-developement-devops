@@ -20,22 +20,3 @@ Desktop.ini
 .idea/
 .history/
 
-# Build and cache folders
-dist/
-build/
-coverage/
-.cache/
-.next/
-.nuxt/
-
-# Environment files
-.env
-.env.*
-!.env.example
-
-# Backup files
-*.bak
-*.swp
-*.swo
-*~
-
